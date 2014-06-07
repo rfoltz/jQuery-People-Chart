@@ -13,13 +13,13 @@ So if it's kind of wrong or the wrong way of doing a plugin then let me know and
 
 ##Default Settings:
 
-color              : null, //colour of the people
-hiliteColor        : null, //colour of the high lighted people
-hilitePercentage   : null, //e.g 0.40 = high light 40% of the people.
-scale              : 1,    //the number the person represents
-numberOfPeople     : 10,   //how many people total
-chartContainerClass: "peoplechart-container", //can customize the css class
-iconScale          : 2 //(2, 3, 4) or icon size. Use the font awesome icon scale as a guide.
+- color              : null, //colour of the people
+- hiliteColor        : null, //colour of the high lighted people
+- hilitePercentage   : null, //e.g 0.40 = high light 40% of the people.
+- scale              : 1,    //the number the person represents
+- numberOfPeople     : 10,   //how many people total
+- chartContainerClass: "peoplechart-container", //can customize the css class
+- iconScale          : 2 //(2, 3, 4) or icon size. Use the font awesome icon scale as a guide.
 
 ###How to use:
 
